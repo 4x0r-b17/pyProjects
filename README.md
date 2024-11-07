@@ -1,3 +1,5 @@
-[x] Simple example of python malware designed for crash a machine opening lots of windwos
+[#] Collection of simple python projects [#]
 
-[x] 4x0r.b17
+[crasher.py] python malware designed for crash machines opening lots of windwos
+
+[x] 4x0r.b17 [x]
